@@ -1,4 +1,4 @@
-<img width="1280" height="727" alt="image" src="https://github.com/user-attachments/assets/70ff2df9-f885-4070-b121-c6ddd69fd158" /># EXPERIMENT 3 :8086 MICROPROCESSOR – BASIC ARITHMETIC OPERATIONS
+# EXPERIMENT 3 :8086 MICROPROCESSOR – BASIC ARITHMETIC OPERATIONS
 
 ## DATE: 17/11/2026
 ## NAME: Shaurya Guru
